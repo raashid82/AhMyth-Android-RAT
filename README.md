@@ -48,5 +48,5 @@ It consists of two parts :
 
 ---------------------------------------------------------------
 ##### I will not be responsible for any direct or indirect damage caused due to the usage of this tool, it is for educational purposes only.
-###### Twitter : <a href="https://twitter.com/AhMythDev"> @AhMythDev </a>
+###### Twitter : <a href="https://instagram.com/raashid_digaran"> @raashid_digaran </a>
 ###### Bitcoin address for donations:  : 1EVwLuwmbsEuej7qJnNquFeQJLsgd2b8Lq
